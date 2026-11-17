@@ -1,0 +1,36 @@
+---
+schema-version: v1.2.3
+id: BCPP248
+title:
+- content: Best Current Practice P248
+  language:
+  - en
+  script:
+  - Latn
+  format: text/plain
+link:
+- content: https://www.rfc-editor.org/info/bcpP248
+  type: src
+type: standard
+docid:
+- id: BCP P248
+  type: IETF
+  primary: true
+docnumber: BCP248
+language:
+- en
+script:
+- Latn
+relation:
+- type: includes
+  bibitem:
+    id: RFC10091
+    docid:
+    - id: RFC 10091
+      type: IETF
+      primary: true
+    formattedref:
+      content: RFC10091
+      format: text/plain
+ext:
+  schema-version: v1.0.1
